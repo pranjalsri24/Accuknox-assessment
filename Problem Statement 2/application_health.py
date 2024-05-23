@@ -1,4 +1,4 @@
-#problem 4 of task 2 which is application health montinor
+#problem 4 of task 2 which is application health checker
 
 import requests
 import time
